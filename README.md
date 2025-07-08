@@ -5,7 +5,7 @@
 * Ian de Holanda Cavalcanti Bezerra - 13835412
 * Hiago Vinicius Américo - 11218469
 * Nina Cunha Pinheiro - 13686500
-* Bruna Romero Arraes 11913896
+* Bruna Romero Arraes - 11913896
 
 **Disciplina:** Inferência Estatística  
 **Universidade:** ICMC - USP
